@@ -17,4 +17,4 @@ The deployment will be done using **AWS EC2 (Ubuntu Linux)** — a virtual serve
 
 ---
 
-**Server IP:** _(To be added after deployment)_  
+**Server IP:** http://13.60.98.155/ 
